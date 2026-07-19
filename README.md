@@ -1,5 +1,13 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+
+<img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+
+# 👋 Hi, I'm Riyaz
+
+### 🚀 AI Engineer • Full-Stack Developer • Machine Learning Enthusiast • Researcher
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Full-Stack+Developer;Machine+Learning+Enthusiast;Building+AI+Products+for+Real+World+Problems;Always+Learning+New+Technologies" />
+
 </div>
 
 ---
@@ -22,81 +30,103 @@
 
 ---
 
-<h1 align="center">
-Hi 👋 I'm Mohamed Riyaz 
-</h1>
+# 👨‍💻 About Me
 
-<h3 align="left">
-👨‍💻 About Me
-</h3>
+👋 **Hey, I'm Riyaz!**
 
-I'm an **AI Engineer** and **Computer Science (Artificial Intelligence)** undergraduate passionate about building intelligent software that solves real-world problems.
+🚀 **AI Engineer • Full-Stack Developer • Machine Learning Enthusiast • Researcher**
 
-- 🤖 Building **AI Agents**, **LLM Applications**, **RAG Systems**, and **Automation Platforms**
-- 💻 Developing modern **Full-Stack Applications** using **React, Next.js, FastAPI & Node.js**
-- 🧠 Experienced with **Python, Java, Machine Learning, NLP, SQL, Docker & Cloud Technologies**
-- 🔬 Research Intern @ **University of Nottingham Malaysia**
-- 💼 Software Development Intern @ **Pratinik Infotech**, **CodSoft** & **Future Intern**
-- 🌱 Currently exploring **Multi-Agent Systems, Generative AI, System Design & Scalable AI Infrastructure**
-- 🎯 Mission: **Building intelligent software that creates real-world impact.**
+🎓 Computer Science Engineering *(Artificial Intelligence)* student passionate about building **AI-powered products** that solve real-world problems.
+
+💡 I specialize in **Generative AI, LLM Applications, Multi-Agent Systems, RAG, Full-Stack Development, and Cloud-Native Solutions**, transforming ideas into scalable, production-ready applications.
+
+🚀 Currently building intelligent AI systems, developer tools, automation platforms, and modern full-stack applications while continuously exploring the latest advancements in Artificial Intelligence.
+
+> **"Building intelligent software, one project at a time." ⚡**
 
 ---
 
-<h3 align="left">
-🛠 Languages & Tools
-</h3>
+# 🛠 Languages & Tools
 
-<div align="left">
+<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nextjs,nodejs,fastapi,docker,git,github,mysql,postgres,linux,html,css,tailwind,vscode,npm,postman&perline=9"/>
 
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/TechMR2006/TechMR2006/output/snake.svg" alt="Snake animation"/>
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TechMR2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechMR2006&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=TechMR2006&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TechMR2006&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechMR2006&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/TechMR2006/TechMR2006/output/snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+# 🚀 Current Focus
+
+- 🤖 AI Agents & Multi-Agent Systems
+- 🧠 Large Language Models (LLMs)
+- 📄 Retrieval-Augmented Generation (RAG)
+- ⚡ FastAPI & Backend Development
+- 🌐 Full-Stack Web Development
+- 🐳 Docker & DevOps
+- ☁️ Cloud Computing
+- 📚 Research & Artificial Intelligence
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+### *"The best way to predict the future is to build it."*
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
