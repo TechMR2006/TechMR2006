@@ -23,7 +23,7 @@
 ---
 
 <h1 align="center">
-Hi 👋 I'm TechMR
+Hi 👋 I'm Mohamed Riyaz 
 </h1>
 
 <h3 align="left">
